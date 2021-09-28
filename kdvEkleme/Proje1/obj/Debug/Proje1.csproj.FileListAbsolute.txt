@@ -1,0 +1,20 @@
+C:\Users\yukse\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\yukse\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\yukse\source\repos\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\yukse\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+C:\Users\yukse\source\repos\Proje1\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\yukse\source\repos\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\yukse\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\yukse\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\yukse\source\repos\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\yukse\source\repos\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\kdvEkleme\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\kdvEkleme\Proje1\bin\Debug\Proje1.exe
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\kdvEkleme\Proje1\bin\Debug\Proje1.pdb
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\kdvEkleme\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\kdvEkleme\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\kdvEkleme\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\kdvEkleme\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\kdvEkleme\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\kdvEkleme\Proje1\obj\Debug\Proje1.exe
+C:\Users\yukse\Desktop\Bilge Adam Denemeler\Visual Studio Projeler\kdvEkleme\Proje1\obj\Debug\Proje1.pdb
